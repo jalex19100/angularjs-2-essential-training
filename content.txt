@@ -1,0 +1,128 @@
+Introduction
+8m 29s
+Welcome
+1m 31s
+Why use AngularJS 2?
+1m 36s
+What you should know before watching this course
+49s
+Using the exercise files
+1m 7s
+Basics of TypeScript
+2m 24s
+Course overview
+1m 2s
+1. Architecture Overview
+13m 7s
+Components, Bootstrap, and the DOM
+2m 1s
+Directives and pipes
+1m 40s
+Data binding
+1m 53s
+Dependency injection
+1m 54s
+Services and other business logic
+2m 2s
+Data persistence
+1m 47s
+Routing
+1m 50s
+2. Components
+28m 31s
+Component metadata
+4m 30s
+The component selector
+1m 41s
+The component template
+2m 20s
+Styling a component
+3m 51s
+Using other components in a component
+2m 48s
+Interpolation and the expression context
+2m 36s
+Property binding
+1m 23s
+Event binding
+1m 34s
+Getting data to the component with input
+3m 46s
+Subscribing to component events with output
+4m 2s
+3. Directives and Pipes
+24m 17s
+Structural directives—ngIf
+3m 52s
+Structural directives—ngFor
+2m 51s
+Attribute directives—built in
+2m 6s
+Attribute directives—custom
+3m 22s
+Using directive values
+3m 19s
+Working with events in directives
+2m 19s
+Angular pipes—built in
+2m 46s
+Angular pipes—custom
+3m 42s
+4. Forms
+17m 34s
+Angular forms
+1m 29s
+Template-driven forms
+3m 31s
+Model-driven forms
+3m 16s
+Validation—built in
+3m 7s
+Validation—custom
+2m 29s
+Error handling
+3m 42s
+5. Dependency Injection and Services
+18m 25s
+How Angular does dependency injection
+2m 59s
+Services in Angular
+2m 22s
+Class constructor injection
+2m 1s
+Building a service
+3m 18s
+Provider registration at Bootstrap
+3m 3s
+The Inject decorator
+2m 10s
+The opaque token
+2m 32s
+6. HTTP
+14m 4s
+The Angular 2 HTTP bundle
+2m 5s
+Using a mock back end for HTTP calls
+1m 29s
+Using HTTP for GET calls
+4m 10s
+Using UrlSearchParams
+1m 53s
+Using HTTP for POST, PUT, and DELETE calls
+4m 27s
+7. Routing
+11m 27s
+The Angular 2 routing bundle
+1m 26s
+Route configuration
+2m 11s
+Router outlets
+2m 1s
+Router links
+4m 12s
+Using the router class to navigate
+1m 37s
+Conclusion
+1m 20s
+Next steps
+1m 20s
